@@ -27,7 +27,7 @@ return {
             ensure_installed = {
                 "lua_ls",
                 "tsserver",
-                "omnisharp@v1.39.11",
+                "omnisharp@v1.39.8",
                 "angularls",
                 "clangd",
                 "cssls",

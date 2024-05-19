@@ -1,7 +1,1 @@
-require("main.init")
-require("after.plugin.telescope")
-require("after.plugin.colors")
-require("after.plugin.harpoon")
-require("after.plugin.treesitter")
-require("after.plugin.undotree")
-require("after.plugin.fugitive")
+require("main")
